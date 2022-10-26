@@ -1,0 +1,82 @@
+
+    GOLDRAKE SPACER 1.3.0
+          ANIME SOFT
+
+http://www.animesoft.altervista.org
+
+
+
+*****************************************************************
+_________________________________________________________________
+
+SISTEMA DI CONTROLLO:
+
+SU = W
+SINISTRA = A
+DESTRA = D
+GIU = S
+
+fUOCO = K
+BOMBA = L
+
+*****************************************************************
+_________________________________________________________________
+ALTRI TASTI:
+
+f2 = reset
+ctrl+P = PAUSA
+
+*****************************************************************
+_________________________________________________________________
+
+Lista cambiamenti versione 1.3.0:
+
+- Aumentata velocità proiettili di Goldrake del 50%
+- migliorato effetto esplosioni con alpha channel
+- Aggiunto effetto prallax nel quarto livello
+- fix per Windows 7
+- Correzioni varie
+
+*****************************************************************
+
+Lista cambiamenti versione 1.2.5:
+
+- Ridotta la superficie di Goldrake, colpibile da spari e collisioni nemiche (alette e codone non sono più   colpibili).
+- Aumentata la resistenza delle astronavi di Actarus e Venusia (ci vogliono due colpi per distruggerli).
+- Raggiunti i 100.000 punti si vince una vita.
+- Migliorato il motore grafico.
+- Modificato il parallax e alcune grafiche del 2° schema.
+- Modificato l'effetto grafico quando si lancia l'alabarda spaziale.
+- Corretti alcuni bug.
+- Cambiato il controllo del Menu.
+
+*****************************************************************
+
+Lista cambiamenti versione 1.2:
+
+Cambiata la risoluzione video da 800X600 a 1024X768.
+Schermo di gioco impostato in 16:9 con bande nere già incluse nel frame.
+Menu aggiornato e corretto
+Aumentato il numero di colori a 65536
+Fissato errore che faceva perdere la configurazione dei controlli.
+Cambiata la schermata del menu: Instruction.
+Aggiunti suoni al Menu.
+Cambiata l'impostazione delle schermate.
+Livelli di gioco COMPLETAMENTE ridisegnati.
+Aggiunto un livello Portando il totale da affrontare da tre a quattro
+Cambiato il Tuono Spaziale.
+Aggiunto il bonus Speed Up.
+Aggiunte nuova Arma: Lama rotante.
+Script e IA riprogrammata.
+Cambiata l'interazione fra Goldrake e Actarus e Venusia.
+Modificato l'effetto "bomba": Alabarda Spaziale.
+Aggiunti innumerevoli effetti sonori.
+Cambiate le musiche di sottofondo.
+Aggiunti nuovi minidishi di Vega ispirati alla 2° serie.
+Mostri finali "Golgoth" visibilmente danneggiabili.
+Tre nuovi mostri finali.
+FX e SFX sostituiti con nuovi e migliori effetti.
+Cambiata la schermata finale.
+Correzioni varie sul Gameplay.
+E tantissime altre cose.
+...
